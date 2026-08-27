@@ -1,0 +1,50 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.centered-block {
+    display: inline-block;
+    text-align: left;
+    /* max-width: 60vw; */
+}
+.red-outline {
+  color: red;
+  text-shadow:
+    -1px -1px 0 #fff,
+     1px -1px 0 #fff,
+    -1px  1px 0 #fff,
+     1px  1px 0 #fff,
+     2px  0px 0 #fff,
+    -2px  0px 0 #fff,
+     0px  2px 0 #fff,
+     0px -2px 0 #fff;
+}
+.black-outline {
+  color: black;
+  text-shadow:
+    -1px -1px 0 #fff,
+     1px -1px 0 #fff,
+    -1px  1px 0 #fff,
+     1px  1px 0 #fff,
+     2px  0px 0 #fff,
+    -2px  0px 0 #fff,
+     0px  2px 0 #fff,
+     0px -2px 0 #fff;
+}
+.bidding-table {
+  margin: 10px auto;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.bidding-table th, .bidding-table td {
+  border: 1px solid #999;
+  padding: 4px 10px;
+  text-align: center;
+  width: 7ch;
+}
+.bidding-table th {
+  background: #eee;
+}
