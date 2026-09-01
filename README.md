@@ -1,8 +1,11 @@
 For people involved
 
 To add:
-* Splinter bids
 * Limit raises
-* quantitative 4nt invite
 * flannery
+
+
+Added:
+* Splinter bids
 * weak two bids/inverted minors
+* quantitative 4nt invite
