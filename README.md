@@ -13,6 +13,7 @@ To add:
 * Unusual over unusual
 * Texas transfer
 * 1NT -> 3s forcing to game
+* maximal double
 
 Maybe add, dubious:
 * Limit raises
